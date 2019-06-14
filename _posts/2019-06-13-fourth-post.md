@@ -12,14 +12,10 @@ fork만 하면 끝나는 줄 알았는데 HTML/CSS를 전혀 모르는 상태에
 ![캡쳐](https://github.com/grand-tangerine/grand-tangerine.github.io/blob/master/%EC%BA%A1%EC%B2%98.PNG)
 
 >To do list
-> *~~ 사이드바 이름 수정하기~~
-
+> *~~ 사이드바 이름 수정하기 ~~
 > *Google analytics 추가하기
-
 > *카테고리 구분하기
-
    과연 이걸 위해 루비와 지킬을 설치할 것인가..
-   
 > *markdown 문법 공부하기   
 
 
