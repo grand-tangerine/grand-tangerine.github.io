@@ -1,6 +1,7 @@
----
+﻿---
 title: Jekyll로 github 블로그 만들기
 author: 규리
+category : diary
 layout: post
 ---
 어제 처음 github를 만들고, 오늘은 블로그 개설했다. 
